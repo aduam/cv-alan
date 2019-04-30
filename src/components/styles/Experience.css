@@ -1,0 +1,11 @@
+.Experience-container {
+  display: flex;
+  width: 100%;
+}
+.Experience-label {
+  width: 70%;
+  margin: auto;
+}
+.Experience-label p {
+  text-align: center;
+}

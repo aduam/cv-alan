@@ -1,0 +1,36 @@
+.Navbar-container {
+  display: flex;
+  max-height: 65px;
+  width: 100%;
+  background-color: #3d3838;
+  color: #fff;
+}
+.Navbar-home {
+  display: flex;
+  width: 15%;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+}
+.Navbar-home a {
+  text-decoration: none;
+  color: #fff;
+}
+.Navbar-menu {
+  display: flex;
+  justify-content: flex-end;
+  width: 85%;
+  margin-right: 100px;
+}
+.Navbar-menu ul li {
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 20px;
+}
+.Navbar-menu ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+.Navbar-menu ul li a:hover {
+  color: #8f8f8f;
+}

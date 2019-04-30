@@ -1,0 +1,13 @@
+.Language-container {
+  width: 100%;
+  display: flex;
+}
+.Language-label {
+  width: 50%;
+}
+.Language-label p {
+  padding-left: 60%
+}
+.Language-item {
+  width: 50%;
+}

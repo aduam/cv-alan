@@ -1,0 +1,23 @@
+.Data-container {
+  margin: 70px 0 0 70px;
+}
+h2 {
+  text-align: center;
+}
+.Data-datos {
+
+  display: flex;
+}
+.Data-datos div {
+  margin-right: 40px;
+}
+.Data-redes a {
+  margin: 0 10px;
+}
+.Data-redes a img {
+  width: 40px;
+}
+.Data-redes {
+  margin: 40px 0;
+  text-align: center;
+}

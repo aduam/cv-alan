@@ -1,0 +1,22 @@
+.Hero {
+  width:100%;
+}
+.Hero-container {
+  display: flex;
+}
+.Hero-foto {
+  width: 30%;
+}
+.Hero-foto img {
+  width: 200px;
+  border-radius: 100%;
+  display: flex;
+  margin: auto;
+  margin-top: 40px;
+}
+.Hero-position {
+  text-align: center
+}
+.Hero-position span {
+  color: coral;
+}

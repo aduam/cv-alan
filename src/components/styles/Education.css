@@ -1,0 +1,13 @@
+.Education-container {
+  display: flex;
+  width: 100%;
+}
+.Education-label {
+  width: 50%;
+}
+.Education-label p {
+  padding-left: 50%;  
+}
+.Education-items {
+  width: 50%;
+}

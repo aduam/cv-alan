@@ -1,0 +1,40 @@
+.Knowledge-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.Knowledge-languagesProg {
+  width: 50%;
+}
+.Knowledge-languagesProg ul {
+  padding: 0;
+}
+.Knowledge-languagesProg {
+  text-align: center;
+}
+.Knowledge-languagesSQL {
+  width: 50%;
+}
+.Knowledge-languagesSQL ul {
+  padding: 0;
+}
+.Knowledge-languagesSQL {
+  text-align: center;
+}
+ul li {
+  list-style: none;
+}
+.Knowledge-os {
+  text-align: center;
+  width: 50%;
+}
+.Knowledge-os ul {
+  padding: 0;
+}
+.Knowledge-frameworks {
+  text-align: center;
+  width: 50%;
+}
+.Knowledge-frameworks ul {
+  padding: 0;
+}
